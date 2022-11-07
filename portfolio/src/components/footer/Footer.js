@@ -34,24 +34,24 @@ const Footer = () => {
 
         <p>Santiago de Cali</p>
         <p>telefono: 316 3710912</p>
-        <p>Mail: ceanabad@gmail.com</p>
+        <p>Email: ceanabad@gmail.com</p>
 
         <div className="colz">
           <div className="colz-icon">
-            <a href="#">
-              <i className="fab fa-facebook"></i>
+            <a href="https://github.com/seuz716">
+              <i className="fab fa-github"></i>
             </a>
-            <a href="#">
-              <i className="fab fa-google-plus-square"></i>
+            <a href="https://herramientasexcelaccesparacontadores.blogspot.com/">
+              <i className="fab fa-blogger"></i>
             </a>
-            <a href="#">
+            <a href="https://www.instagram.com/cesarabadia2/">
               <i className="fab fa-instagram"></i>
             </a>
-            <a href="#">
+            <a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ">
               <i className="fab fa-youtube-square"></i>
             </a>
-            <a href="#">
-              <i className="fab fa-twitter"></i>
+            <a href="https://www.linkedin.com/in/cesar-andr%C3%A9s-abad%C3%ADa-d%C3%A1vila-b0a915203/">
+              <i className="fab fa-linkedin"></i>
             </a>
           </div>
         </div>

@@ -8,14 +8,14 @@ const Slider = () => {
   return (
     <div className="carousel-container">
       <div className="carousel-title">
-        <h2>My Projects</h2>
+        <h2>Proyectos</h2>
       </div>
 
       
       <Carousel>
        {Slides}
-      </Carousel>
-    </div>
+      </Carousel >
+      </div>
   );
 };
 

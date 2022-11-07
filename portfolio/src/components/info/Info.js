@@ -5,13 +5,15 @@ const Info = () => {
   return (
     <div className="info-container">
       <div className="info">
-        <h1>Let's work together and create something unique</h1>
+        <h1>Trabajemos juntos y mejoremos el mundo </h1>
         <hr></hr>
         <br></br>
+        <p> Dale click y descarga mi curriculum </p>
         <div>
+
         <div className="profile-options">
           <a href="ResumeEs.pdf" download="ResumeEs.pdf">
-          <button className="btn ">Get Resumen </button>
+          <button className="btn ">Obten mi CV </button>
         </a>
       </div>
         </div>
