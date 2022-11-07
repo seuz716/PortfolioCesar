@@ -187,16 +187,16 @@
     justify-content: center;
     box-shadow: 0 1px 0 0 var(--white);
     border-radius: 50%;
-    height: 380px;
-    width: 380px ;
+    height: 350px;
+    width: 350px ;
     margin: 0 0px 0 100px;
 }
 .profile-picture-background{
-    height: 80%;
+    height: 60%;
     width: 50%;
     background-image: url(../../media/foto.jpg);
     background-size: cover;
-    border-radius: 50%;
+    border-radius: 45%;
     background-position: center;
     background-repeat: no-repeat;
 }

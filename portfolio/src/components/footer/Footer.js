@@ -5,7 +5,6 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-     
       <div className="profile-picture">
         <div className="profile-picture-background"></div>
       </div>
@@ -20,13 +19,13 @@ const Footer = () => {
               wrapper="p"
               steps={[
                 "Ethusiastic Dev 🌇",
-                2000,
-                "Desarollador Full Stack      💻",
-                2500,
-                "React Dev 🔢",
+                100,
+                "Dev Full Stack 💻",
                 3000,
+                "React Dev 🔢",
+                1000,
                 "MERN Stack Dev 🚄",
-                3500,
+                3000,
               ]}
             />
           </h1>
