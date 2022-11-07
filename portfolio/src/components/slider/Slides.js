@@ -23,8 +23,8 @@ const slidesInfo = [
     src: "https://res.cloudinary.com/seuz716/image/upload/v1667796907/desarrolloIII_yhsk2r.jpg",
     alt: "Proyect 3",
     desc: "Proyecto 3",
-    name:"Ingenieria",
-    link: "https://safe-bayou-82801.herokuapp.com/",
+    name:"Portafolio",
+    link: "https://portfoliocesar.herokuapp.com/",
   },
   {
     id: 4,
